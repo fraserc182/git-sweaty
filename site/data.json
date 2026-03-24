@@ -8558,6 +8558,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17790514242",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17839561984",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16819,11 +16828,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2656.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17839561984"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3375.0
         }
       }
     }
   },
-  "generated_at": "2026-03-23T15:20:53.979651+00:00",
+  "generated_at": "2026-03-24T15:23:42.944303+00:00",
   "other_bucket": "OtherSports",
   "repo": "fraserc182/git-sweaty",
   "source": "strava",
