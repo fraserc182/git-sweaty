@@ -12413,5 +12413,18 @@
     "start_date_local": "2026-04-02T15:25:51Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18027475675",
+    "moving_time": 2702.0,
+    "name": "Afternoon HIIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-04-08T14:15:07Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]

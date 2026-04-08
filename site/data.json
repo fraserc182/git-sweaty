@@ -8594,6 +8594,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17950907466",
       "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 14,
+      "name": "Afternoon HIIT",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/18027475675",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16642,6 +16651,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2394.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18027475675"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2702.0
         }
       },
       "Hike": {
@@ -16895,7 +16913,7 @@
       }
     }
   },
-  "generated_at": "2026-04-07T15:27:37.467053+00:00",
+  "generated_at": "2026-04-08T15:28:22.481165+00:00",
   "other_bucket": "OtherSports",
   "repo": "fraserc182/git-sweaty",
   "source": "strava",
